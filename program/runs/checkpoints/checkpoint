@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/codelh7/data/program/runs/checkpoints/model-400"
+all_model_checkpoint_paths: "/home/codelh7/data/program/runs/checkpoints/model-360"
+all_model_checkpoint_paths: "/home/codelh7/data/program/runs/checkpoints/model-370"
+all_model_checkpoint_paths: "/home/codelh7/data/program/runs/checkpoints/model-380"
+all_model_checkpoint_paths: "/home/codelh7/data/program/runs/checkpoints/model-390"
+all_model_checkpoint_paths: "/home/codelh7/data/program/runs/checkpoints/model-400"
